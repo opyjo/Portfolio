@@ -25,13 +25,13 @@ export const projects = [
       "The App shows list of popular movies the users can watch. Users can also add movies to the watchlist and watched list  ",
     image: "/images/pickflixx.png",
     tags: ["React", "ContextAPI", , "Styled Component"],
-    source: "https://github.com/opyjo/pickflixx",
+    source: "https://infallible-chandrasekhar-eac055.netlify.app/",
     visit: "https://opyjo.github.io/pickflixx/",
     id: 2,
   },
 
   {
-    title: "Woo Commerce",
+    title: "CoolCommerce",
     description: "App is a single-page PSD conversion responsive design. ",
     image: "/images/My-Ecommerce-Website.png",
     tags: ["HTML", "CSS", "SASS"],
