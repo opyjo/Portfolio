@@ -25,8 +25,8 @@ export const projects = [
       "The App shows list of popular movies the users can watch. Users can also add movies to the watchlist and watched list  ",
     image: "/images/pickflixx.png",
     tags: ["React", "ContextAPI", , "Styled Component"],
-    source: "https://infallible-chandrasekhar-eac055.netlify.app/",
-    visit: "https://opyjo.github.io/pickflixx/",
+    source: "https://github.com/opyjo/pickflixx",
+    visit: "https://infallible-chandrasekhar-eac055.netlify.app/",
     id: 2,
   },
 
